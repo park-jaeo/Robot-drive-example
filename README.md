@@ -8,7 +8,7 @@
 1. 난수를 이용해 모의의 전압을 생성하고 이를 적정전압 범위에 따라 초록색, 노란색, 빨간색으로 표현한다.
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80d973ad-8cfe-4bf6-ba3c-572b6a5b02e4/Untitled.png)
+<img width="100%" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8735e871-55ee-402d-bc9a-8b0751f1a8cd/Untitled.png"/>
 
 2. 초록색:info, 노란색:warning, 빨간색:error로 log를 설정
 3. 초록색:100%속도로 구동 / 노란색: 50%속도로 구동 / 빨간색: 미구동
